@@ -6,3 +6,4 @@
 5. [554][Brick Wall](https://leetcode.com/problems/brick-wall/description/)
 6. [974] [Subarray Sums Divisible by K](https://leetcode.com/problems/subarray-sums-divisible-by-k/description/)
 7. [1590][Make Sum Divisible by P](https://leetcode.com/problems/make-sum-divisible-by-p/description/)
+8. [Minimum Number of Swaps to Make the String Balanced](https://leetcode.com/problems/minimum-number-of-swaps-to-make-the-string-balanced/description/)
