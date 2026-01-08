@@ -15,3 +15,4 @@
 14. [1339. Maximum Product of Splitted Binary Tree](https://leetcode.com/problems/maximum-product-of-splitted-binary-tree/description/?envType=daily-question&envId=2026-01-07)
 15. [2856.Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/description/)
 16. [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
+17. [567.Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
