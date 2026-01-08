@@ -16,3 +16,4 @@
 15. [2856.Minimum Array Length After Pair Removals](https://leetcode.com/problems/minimum-array-length-after-pair-removals/description/)
 16. [424. Longest Repeating Character Replacement](https://leetcode.com/problems/longest-repeating-character-replacement/)
 17. [567.Permutation in String](https://leetcode.com/problems/permutation-in-string/description/)
+18. [1838. Frequency of the Most Frequent Element](https://leetcode.com/problems/frequency-of-the-most-frequent-element/description/)
