@@ -21,3 +21,4 @@
 20. [713][ Subarray Product Less Than K](https://leetcode.com/problems/subarray-product-less-than-k/description/)
 21. [304. Range Sum Query 2D - Immutable](https://leetcode.com/problems/range-sum-query-2d-immutable/description/)
 22. [2962.Count Subarrays Where Max Element Appears at Least K Times](https://leetcode.com/problems/count-subarrays-where-max-element-appears-at-least-k-times/description/)
+23. [1358. Number of Substrings Containing All Three Characters](https://leetcode.com/problems/number-of-substrings-containing-all-three-characters/description/)
