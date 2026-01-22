@@ -33,4 +33,5 @@
 32. [239. Sliding Window Maximum](https://leetcode.com/problems/sliding-window-maximum/description/)
 33. [1944. Number of Visible People in a Queue](https://leetcode.com/problems/number-of-visible-people-in-a-queue/)
 34. [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/description/)
-35. 
+35. [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
+36. 
