@@ -35,3 +35,5 @@
 34. [3095. Shortest Subarray With OR at Least K I](https://leetcode.com/problems/shortest-subarray-with-or-at-least-k-i/description/)
 35. [767. Reorganize String](https://leetcode.com/problems/reorganize-string/)
 36. [Basic Calculator II](https://leetcode.com/problems/basic-calculator-ii/description/)
+37. [Missing Element in Sorted Array](https://neetcode.io/problems/missing-element-in-sorted-array/question?list=allNC)
+38. 
