@@ -39,3 +39,7 @@
 38. [162. Find Peak Element](https://leetcode.com/problems/find-peak-element/description/)
 39. [Missing Element in Sorted Array](https://neetcode.io/problems/missing-element-in-sorted-array/question?list=allNC)
 40. [981. Time Based Key-Value Store](https://leetcode.com/problems/time-based-key-value-store/description/?envType=problem-list-v2&envId=w9722cw5)
+41. [875. Koko Eating Bananas](https://leetcode.com/problems/koko-eating-bananas/description/)
+42. [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
+43. [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/)
+44. [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
