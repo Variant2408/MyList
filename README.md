@@ -43,3 +43,4 @@
 42. [74. Search a 2D Matrix](https://leetcode.com/problems/search-a-2d-matrix/description/)
 43. [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/)
 44. [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
+45. [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
