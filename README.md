@@ -44,3 +44,4 @@
 43. [2560. House Robber IV](https://leetcode.com/problems/house-robber-iv/description/)
 44. [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
 45. [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
+46. [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)
