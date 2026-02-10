@@ -45,3 +45,4 @@
 44. [2616. Minimize the Maximum Difference of Pairs](https://leetcode.com/problems/minimize-the-maximum-difference-of-pairs/description/)
 45. [719. Find K-th Smallest Pair Distance](https://leetcode.com/problems/find-k-th-smallest-pair-distance/description/)
 46. [432. All O`one Data Structure](https://leetcode.com/problems/all-oone-data-structure/description/)
+47. [958. Check Completeness of a Binary Tree](https://leetcode.com/problems/check-completeness-of-a-binary-tree/description/)
